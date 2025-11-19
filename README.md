@@ -1,4 +1,4 @@
-# Filter Pro
+# XLT FilterPro
 
 一个功能强大的 Flarum 内容过滤插件，基于 `fof/filter` 和 `hamcq/filter-plus` 修复二改而来。
 
@@ -45,7 +45,7 @@ composer require hamcq/filter-plus
 
 ### 启用插件
 
-在 Flarum 管理后台启用 "HamCQ Filter Plus" 插件。
+在 Flarum 管理后台启用 "XLT FilterPro" 插件。
 
 ## 配置
 
