@@ -44,7 +44,7 @@
 ### 使用 Composer
 
 ```bash
-composer require XiaoLuoTian189/filter-pro
+composer require xlt/filter-pro
 ```
 
 ### 启用插件
