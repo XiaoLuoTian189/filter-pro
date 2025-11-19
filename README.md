@@ -1,6 +1,10 @@
 # XLT FilterPro
 
+[![GitHub](https://img.shields.io/badge/GitHub-XiaoLuoTian189%2Ffilter--pro-blue)](https://github.com/XiaoLuoTian189/filter-pro)
+
 一个功能强大的 Flarum 内容过滤插件，基于 `fof/filter` 和 `hamcq/filter-plus` 修复二改而来。
+
+**GitHub 仓库**: [https://github.com/XiaoLuoTian189/filter-pro](https://github.com/XiaoLuoTian189/filter-pro)
 
 ## 功能特性
 
@@ -188,7 +192,7 @@ MIT License
 
 ## 支持
 
-如有问题或建议，请提交 Issue 或 Pull Request。
+如有问题或建议，请访问 [GitHub 仓库](https://github.com/XiaoLuoTian189/filter-pro) 提交 Issue 或 Pull Request。
 
 ---
 
