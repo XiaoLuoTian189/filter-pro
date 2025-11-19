@@ -44,7 +44,7 @@
 ### 使用 Composer
 
 ```bash
-composer require hamcq/filter-plus
+composer require XiaoLuoTian189/filter-pro
 ```
 
 ### 启用插件
